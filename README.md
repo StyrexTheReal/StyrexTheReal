@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @styrexthereal
 - 👀 I’m interested in sports, programming and gaming
-- 🌱 I’m currently learning iOS Development
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: Twitter (@StyrexTheReal) or Discord (Styrex#0325)
 
