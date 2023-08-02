@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @styrexthereal
 - 👀 I’m interested in sports, gaming, chess and programming
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Blazor and ASP.NET
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: Twitter (@StyrexTheReal) or Discord (Styrex#0325)
 
